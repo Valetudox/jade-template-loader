@@ -1,0 +1,28 @@
+{
+  "name": "jade-template-loader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha index.spec.js"
+  },
+  "devDependencies": {
+    "chai": "3.5.0",
+    "chai-string": "1.2.0",
+    "mocha": "3.0.1"
+  },
+  "dependencies": {
+    "pug": "^2.0.0-beta6",
+    "ramda": "0.22.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Valetudox/jade-template-loader.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Valetudox/jade-template-loader/issues"
+  },
+  "homepage": "https://github.com/Valetudox/jade-template-loader#readme"
+}
